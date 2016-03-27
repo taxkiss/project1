@@ -1,7 +1,3 @@
-I Have A Dream.this is a grade centry,we are so luckly.
-my name id talkiss,do you like.
-the world is so large,i want to look.
-you are so beautifuly!
-chain....
-lalalalallallalalalla
-bigbang loser
+          这是我的一个小项目Talkiss
+Talkiss可以实现资源共享（当然小资源），在线聊天，登录注册等功能。
+>>>>2016/3/27/18:32

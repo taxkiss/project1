@@ -1,0 +1,27 @@
+@CHARSET "UTF-8";
+.div1{ width:100%; height:40%; background-color:#ffffff;float:left;}
+.div2{ width:100%; height:60%; background-color:#10B5E5;float:left;}
+.table{
+	position: absolute;
+	width: 400px;
+	left: 50%;
+	margin-left: -200px; 
+}
+
+.table_register{
+	width:500px;
+	height:400px;
+	background-color:#44C2F2;
+	position:absolute;
+	top:50%;
+	left:50%;
+	margin-left:-250px; 
+	margin-top:-200px; 
+}
+
+.upFile_table{
+	position: absolute;
+	//width: 400px;
+	left: 50%;
+	margin-left: -200px;
+}
